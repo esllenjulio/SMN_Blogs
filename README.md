@@ -1,10 +1,9 @@
 # SNM_Blogs
-Projeto para treinamento Baseado em  um Blog
+Projeto para Treinamento Baseado em um Blog
 
-OBS1: Esta API foi criada para funcionar usando Entity Framework (EF) e Procedures Cadastradas no banco de dados SQL SERVER, 
-      contodo irá existir metodos semelhando definidos pelo nome de cada recurso!
-  
-  Executando Api
+OBS1: Esta API foi criada para funcionar com Entity Framework (EF) e procedures cadastradas no banco de dados SQL Server. Contudo, também existirão métodos semelhantes definidos de acordo com o nome de cada recurso.
+
+Executando a API
 
 - Definir api com projeto principal 
 - Alterar a stringConnection com dados referente a base sql server. 
